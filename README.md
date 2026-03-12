@@ -14,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c++)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus)
 
 ---
 
