@@ -13,6 +13,8 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![C](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=c++)
 
 ---
 
